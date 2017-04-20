@@ -1,0 +1,64 @@
+{
+  "listings": [
+    {
+      "id": "0",
+      "name": "Pizza Hut",
+      "address": "1252 London Rd,Sarnia, ON, N7S 1P5",
+		
+        "latitude": "42.979661",
+        "longitude": "-82.360781"
+    },
+    {
+      "id": "1",
+      "name": "Domino's Pizza",
+      "address": "889 Exmouth St, Sarnia, ON, N7T 5R3",
+      
+        "latitude": "42.98502",
+        "longitude": "-82.377172"
+      
+    },
+    {
+      "id": "2",
+      "name": "Enzo's Pizza",
+      "address": "635 Cathcart Blvd, Sarnia, ON, N7V 2N1",
+      
+        "latitude": "43.004268",
+        "longitude": "-82.388818"
+      
+    },
+    {
+      "id": "3",
+      "name": "Sicily Restaurant & Pizzeria",
+      "address": "1754 London Line, Sarnia, ON, N7W 1A1",
+      
+        "latitude": "42.9837382",
+        "longitude": "-82.3238019"
+      
+    },
+    {
+      "id": "4",
+      "name": "Boston Pizza",
+      "address": "1400 Exmouth St Sarnia ON, N7S 3X9",
+	  
+        "latitude": "42.984531",
+        "longitude": "-82.351231"
+      
+    },
+    {
+      "id": "5",
+      "name": "Christo's Pizza & Burgers",
+      "address":"415 Exmouth St, Sarnia, ON, N7T 8A4",
+      
+        "latitude": "42.985348",
+        "longitude": "-82.38952"
+    },
+    {
+      "id": "6",
+      "name": "Firenze's Pizza",
+      "address": "850 Colborne Rd, Sarnia, ON, N7T 6V8",
+     
+        "latitude": "42.987145",
+        "longitude": "-82.38874"
+      }
+  ]
+}
